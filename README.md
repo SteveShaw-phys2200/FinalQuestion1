@@ -6,7 +6,6 @@
 1. plot volume of superellipsoid vs superellipsoid parameter n
 
 
-![MT2](https://github.com/SteveShaw-phys2200/Homework08/blob/master/glider-velocity.png)
+![Final1](https://github.com/SteveShaw-phys2200/FinalQuestion1/blob/master/mc-se.png)
 
-* note max effecient velocity for R=10, glider scrubs speed by looping until reaching steady glide
-
+* note as n increases V aproaches 2^5
